@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-NOTE: This project is just a warmup and is not a bussiness plan or anything related for work at all. All HTML and CSS codes are premade and I just used them to practise my own Reactjs skill.
+NOTE: This project is just a warmup and is not a bussiness plan or anything related for work at all. All HTML and CSS codes are premade and I just used them to practice my own Reactjs skill.
 
 ## Available Scripts
 
