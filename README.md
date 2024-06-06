@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ### `npm run server`
 
-The following code in package.json must ra before you fireup the project ... make sure the port 9000 is free for this server.
+The following code in package.json must run before you fireup the project ... make sure the port 9000 is free for this server.
 If there is any issue running on this port feel free to change it. Keep in mind that you have to change it in src/contexts
 /QuizContext.js file as well.
 
